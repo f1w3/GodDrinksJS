@@ -1,5 +1,5 @@
 /**
- * The program GodDrinkJS implements an application that
+ * The program GodDrinksJS implements an application that
  * creates an empty simulated world with no meaning or purpose.
  *
  * @author momocashew
@@ -18,7 +18,7 @@ import Tomato from "./things/Tomato";
 
 import IllegalArgumentException from "./IllegalArgumentException";
 
-class GodDrinkJS {
+class GodDrinksJS {
     constructor() {
         const me = new Lovable("Me", 0, true, -1, false);
         const you = new Lovable("You", 0, false, -1, false);

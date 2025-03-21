@@ -1,5 +1,5 @@
 {
-  "name": "goddrinkjs",
+  "name": "goddrinksjs",
   "module": "src/index.ts",
   "type": "module",
   "devDependencies": {
